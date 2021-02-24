@@ -137,7 +137,7 @@ Next, ensure that the *MySetup.bat* file is included in the service package. By 
 
 ![Visual Studio CopyToOutput for SetupEntryPoint batch file][image1]
 
-Now edit the *MySetup.bat* file and add the following commands set a system environment variable and output a text file:
+Now edit the *MySetup.bat* file and add the following commands, that set a system environment variable and output a text file:
 
 ```
 REM Set a system environment variable. This requires administrator privilege
